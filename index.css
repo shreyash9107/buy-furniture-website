@@ -1,0 +1,58 @@
+
+
+#img{
+    background: url("./images/desktop-image-hero-1.jpg");
+    background-size: cover;
+}
+#info{
+    background-color:hsla(0, 0%, 100%, 0.836);
+}
+.headline{
+    font-family: 'Spartan', sans-serif;
+    font-weight: 700;
+    font-size: larger;
+    display: swap;
+    margin-left: 30px;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+}
+.icon{
+    margin-top: 17px;
+    margin-left: 1px;
+}
+.icon2{
+    margin-top: 17px;
+    margin-left: 10px;
+}
+.para{
+    font-family: 'Spartan', sans-serif;
+    font-size: 12px;
+    font-weight: 200;
+    margin-left: 30px;
+}
+.arrow{
+    margin-left: 250px;
+    margin-bottom: 80px;
+}
+.impinfo{
+    margin:90px 30px 30px 50px;
+}
+
+.buy{
+    margin-left: 30px;
+    letter-spacing: 2px;
+}
+#imgsecond{
+    background: url(./images/image-about-dark.jpg);
+    background-size: cover;
+}
+#imgthird{
+    background: url(./images/image-about-light.jpg);
+    background-size: cover;
+}
+.headlinesecond{
+    text-transform: capitalize;
+}
+.secondinfo{
+    margin:30px 15px 15px 10px;
+}
